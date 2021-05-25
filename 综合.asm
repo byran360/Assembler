@@ -1,3 +1,5 @@
+;This is a curriculum design with assembler language. The function of clock and alarm clock is realised in this project.
+
 .486
 CODE    SEGMENT		USE16
         ASSUME 	CS:CODE
